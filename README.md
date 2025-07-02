@@ -19,7 +19,6 @@
   - [Agendamento manual de aulas](https://github.com/git-GMHammes/conquista/blob/main/Doc/agendamento.md)
   - [Suporte para upload e download de materiais](https://github.com/git-GMHammes/conquista/blob/main/Doc/upload_download_materiais.md)
   - [Avaliação simples (quiz, múltipla escolha), para testes de nivelamentos e pesquisas](https://github.com/git-GMHammes/conquista/blob/main/Doc/avaliacao_simples.md)
-  - 
 - **Diferenciais futuros:**
   - Inteligência artificial para sugestão de conteúdos
   - Gamificação
@@ -43,7 +42,8 @@
 
 - **Configuração do ambiente**
 - **Desenvolvimento incremental:**
-  - Começar pelo cadastro e autenticação
+  - [Começar pelo cadastro e autenticação](https://github.com/git-GMHammes/conquista/blob/main/Doc/cadastro_autenticacao.md)
+  - Implementar agendamento e gerenciamento de aulas
   - Implementar agendamento e gerenciamento de aulas
   - Adicionar upload/download de materiais
   - Desenvolver sistema de avaliações e relatórios
