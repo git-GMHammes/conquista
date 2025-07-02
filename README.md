@@ -43,7 +43,7 @@
 - **Configuração do ambiente**
 - **Desenvolvimento incremental:**
   - [Começar pelo cadastro e autenticação](https://github.com/git-GMHammes/conquista/blob/main/Doc/cadastro_autenticacao.md)
-  - Implementar agendamento e gerenciamento de aulas
+  - [Matrícula do Aluno com Emissão de Contrato de Prestação de Serviços](https://github.com/git-GMHammes/conquista/blob/main/Doc/matricula_contrato.md)
   - Implementar agendamento e gerenciamento de aulas
   - Adicionar upload/download de materiais
   - Desenvolver sistema de avaliações e relatórios
