@@ -15,7 +15,7 @@
 ## 2. Planejamento do Produto
 
 - **MVP (Produto Mínimo Viável):**
-  - Cadastro básico de usuários
+  - [Cadastro básico de usuários](https://github.com/git-GMHammes/conquista/blob/main/Doc/cadastro_autenticacao.md)
   - Agendamento manual de aulas
   - Suporte para upload e download de materiais
   - Avaliação simples (quiz, múltipla escolha)
