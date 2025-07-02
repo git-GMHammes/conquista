@@ -16,7 +16,7 @@
 
 - **MVP (Produto Mínimo Viável):**
   - [Cadastro básico de usuários](https://github.com/git-GMHammes/conquista/blob/main/Doc/cadastro_autenticacao.md)
-  - Agendamento manual de aulas
+  - [Agendamento manual de aulas](https://github.com/git-GMHammes/conquista/blob/main/Doc/agendamento.md)
   - Suporte para upload e download de materiais
   - Avaliação simples (quiz, múltipla escolha)
 - **Diferenciais futuros:**

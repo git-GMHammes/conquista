@@ -112,3 +112,6 @@ Este roadmap detalha as etapas para implementar o módulo de cadastro e autentic
 - Priorize a segurança desde o início.
 - Garanta experiência fluida para todos os tipos de usuários.
 - Prepare para futura integração com autenticação social (Google, Facebook) se necessário.
+
+
+[<< Voltar](https://github.com/git-GMHammes/conquista/blob/main/README.md)
