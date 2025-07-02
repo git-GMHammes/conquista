@@ -1,6 +1,6 @@
 [<< Voltar](https://github.com/git-GMHammes/conquista/blob/main/README.md)
 
-# Roadmap Completo: Avaliação Simples (Quiz e Múltipla Escolha) para Testes de Nivelamento e Pesquisas
+# Avaliação Simples (Quiz e Múltipla Escolha) para Testes de Nivelamento e Pesquisas
 
 Este roadmap detalha minuciosamente as etapas para a implementação do módulo de avaliações simples por quiz e múltipla escolha, com foco em testes de nivelamento e pesquisas no sistema de reforço escolar.
 
@@ -75,7 +75,7 @@ Este roadmap detalha minuciosamente as etapas para a implementação do módulo 
 
 ### 5.1 Configuração do Ambiente
 
-- Preparação do backend, banco e frontend (Node.js, Django, etc.)
+- Preparação do backend, banco e frontend (Node.js, Codeigniter 4, etc.)
 - Configuração de variáveis para limites e feedback
 
 ### 5.2 Desenvolvimento Incremental
