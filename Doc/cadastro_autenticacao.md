@@ -1,4 +1,4 @@
-# Roadmap Específico: Cadastro e Autenticação
+# Cadastro e Autenticação
 
 Este roadmap detalha as etapas para implementar o módulo de cadastro e autenticação de usuários no sistema de aulas de reforço.
 
