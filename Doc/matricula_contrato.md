@@ -1,6 +1,6 @@
 [<< Voltar](https://github.com/git-GMHammes/conquista/blob/main/README.md)
 
-# Roadmap Completo: Matrícula do Aluno com Emissão de Contrato de Prestação de Serviços
+# Matrícula do Aluno com Emissão de Contrato de Prestação de Serviços
 
 Este roadmap detalha todas as etapas para implementar o módulo de matrícula de alunos, integrando a emissão automatizada de contratos de prestação de serviços educacionais no sistema de reforço escolar.
 
