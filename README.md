@@ -33,9 +33,9 @@
 ## 4. Arquitetura e Stack Tecnológica
 
 - **Frontend:** React, Vue.js ou Angular
-- **Backend:** Node.js (Express), Python (Django/Flask) ou Ruby on Rails
-- **Banco de Dados:** PostgreSQL ou MongoDB
-- **Infraestrutura:** AWS, Google Cloud ou Azure
+- **Backend:** Node.js (Express), PHP (Codeigniter 4) ou Ruby on Rails
+- **Banco de Dados:** MySQL
+- ~**Infraestrutura:** AWS, Google Cloud ou Azure~
 - **Integrações:** APIs para aulas online (Jitsi, Zoom), pagamentos (Stripe, PayPal)
 
 ## 5. Desenvolvimento
