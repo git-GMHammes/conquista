@@ -44,7 +44,7 @@
 - **Desenvolvimento incremental:**
   - [Começar pelo cadastro e autenticação](https://github.com/git-GMHammes/conquista/blob/main/Doc/cadastro_autenticacao.md)
   - [Matrícula do Aluno com Emissão de Contrato de Prestação de Serviços](https://github.com/git-GMHammes/conquista/blob/main/Doc/matricula_contrato.md)
-  - [Implementar agendamento e gerenciamento de aulas]()
+  - [Implementar agendamento e gerenciamento de aulas](https://github.com/git-GMHammes/conquista/blob/main/Doc/agendamento_aulas.md)
   - [Adicionar upload/download de materiais](https://github.com/git-GMHammes/conquista/blob/main/Doc/upload_download_materiais.md)
   - [Desenvolver sistema de avaliações e relatórios](https://github.com/git-GMHammes/conquista/blob/main/Doc/avaliacoes_relatorios.md)
   - ~Integrar chat e videochamadas~
