@@ -1,6 +1,6 @@
 [<< Voltar](https://github.com/git-GMHammes/conquista/blob/main/README.md)
 
-# Roadmap Detalhado: Sistema de Avaliações e Relatórios
+# Sistema de Avaliações e Relatórios
 
 Este roadmap descreve em detalhes as etapas para o desenvolvimento do módulo de avaliações (quiz, testes, provas, pesquisas) e relatórios de desempenho, conforme as necessidades do sistema de reforço escolar.
 
