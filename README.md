@@ -26,7 +26,7 @@
 
 ## 3. Design da Solução
 
-- **Fluxo de Usuário: Wireframes das principais telas (**login**, **dashboard**, **agenda**, **aula**, **relatórios**)
+- **Fluxo de Usuário:** Wireframes das principais telas (**login**, **dashboard**, **agenda**, **aula**, **relatórios**)
 - **Protótipo navegável:** Ferramentas como Figma ou Adobe XD
 - **Identidade visual:** Logo, paleta de cores, tipografia
 
