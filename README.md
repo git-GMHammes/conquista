@@ -48,7 +48,7 @@
   - [Adicionar upload/download de materiais](https://github.com/git-GMHammes/conquista/blob/main/Doc/upload_download_materiais.md)
   - [Desenvolver sistema de avaliações e relatórios](https://github.com/git-GMHammes/conquista/blob/main/Doc/avaliacoes_relatorios.md)
   - ~Integrar chat e videochamadas~
-  - [Área administrativa]()
+  - [Área administrativa](https://github.com/git-GMHammes/conquista/blob/main/Doc/area_administrativa.md)
 - **Testes automatizados e manuais**
 - **Deploy contínuo**
 

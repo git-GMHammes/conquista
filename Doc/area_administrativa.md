@@ -1,6 +1,6 @@
 [<< Voltar](https://github.com/git-GMHammes/conquista/blob/main/README.md)
 
-# Mega Roadmap da Área Administrativa do Sistema de Reforço Escolar
+# Área Administrativa do Sistema de Reforço Escolar
 
 Este roadmap detalha, de ponta a ponta, a concepção, requisitos, modelagem, arquitetura, implementação, testes e evolução da **Área Administrativa** do sistema, totalmente alinhada aos demais módulos do projeto. O foco é garantir gestão eficiente, segurança, rastreabilidade e facilidade de uso para os operadores/admins da plataforma.
 
